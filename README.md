@@ -2,7 +2,7 @@
 
 ## Project Overview
 ### Purpose
-The purpose of this project was to utilize APIs to create an app for customers to plan a vacation based on weather requirements, search for cities that meet the criteria, and map a travel itinerary. 
+The purpose of this project was to utilize APIs to create an app for customers to plan a vacation based on weather requirements including searching for destinations and creating a travel itinerary. 
 
 ### Tools
 * OpenWeatherMap API
